@@ -1,0 +1,46 @@
+.nav-bar {
+	text-align: center;
+	padding: 1rem;
+	display: grid;
+	grid-template-columns: 1fr 2fr 1fr;
+}
+
+.header {
+	padding: 1rem;
+}
+
+.header__subtitle {
+	margin: 0.5em 0;
+}
+
+.header__title {
+	margin: 0.5em 0;
+}
+
+.header__text {
+	inline-size: 50%;
+}
+
+.quem-somos {
+	padding: 2rem;
+}
+
+.quem-somos__title {
+	text-align: center;
+}
+
+.quem-somos__text {
+	margin-top: 1rem;
+}
+
+.onde-estamos {
+	padding: 2rem;
+}
+
+.onde-estamos__title {
+	text-align: center;
+}
+
+.onde-estamos__text {
+	margin-top: 1rem;
+}
