@@ -1,8 +1,12 @@
 .nav-bar {
-	text-align: center;
 	padding: 1rem;
 	display: grid;
 	grid-template-columns: 1fr 2fr 1fr;
+	align-items: center;
+
+	font-family: 'Quicksand', sans-serif;
+	font-size: 0.9em;
+	text-align: center;
 }
 
 .header {
